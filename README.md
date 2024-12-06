@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm H K Charan</h1>
-<h3 align="center">I am a web developer with experience in both front-end and back-end technologies. I have worked on several projects using the **MERN stack** and have developed full-stack applications. I am continuously learning and improving my skills in web development, machine learning, and app development.</h3>
+<h3 align="center">I am a web developer with experience in both front-end and back-end technologies. I have worked on several projects using the multiple technologies and have developed full-stack applications. I am continuously learning and improving my skills in web development, machine learning, and app development.</h3>
 
-- 🔭 I’m currently studying **computer science & engineering**
+- 🔭 I’m currently studying **Computer Science & Engineering**
+
+- 🌟 Passionate about creating impactful web and software solutions.
+
+- 💻 Skilled in MERN stack, Java, MySQL, and more.
 
 - ✨ Open to collaboration and freelancing opportunities. **https://hkcharan.netlify.app/**
 
